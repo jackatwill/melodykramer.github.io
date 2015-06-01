@@ -39,3 +39,5 @@ I'd set the station up as a faciliator rather than a disseminator. We would:
 18. Invite people to the station to record podcasts in an empty studio. 
 
 19. Invite people from community to station once a month to preview new stuff, give feedback. Maybe the station is a food truck. What's the station version of a little free library? 
+
+20. Have a station archivist, and a simple process for anyone producing media to add good metadata and store everything where it can be preserved and found again in the future.
